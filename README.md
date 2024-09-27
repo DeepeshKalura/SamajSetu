@@ -1,16 +1,15 @@
-# myapp
+<image src="./assets/image.png"/>
 
-A new Flutter project.
+# Samajसेतु
 
-## Getting Started
+The SamajSetu project aims
+to bridge communication gaps between the speech and hearing-impaired community
+and the public. The mobile app offers real-time Indian Sign Language (ISL)
+translation using Flutter, WebRTC, and AI/ML models like YOLO and CNN for
+audio-visual processing. A key feature is customizable ISL translations based on
+regional variations, enabling users to communicate in their native sign languages.
+Designed for online and offline use, the app's modular architecture allows integration
+into sectors like education, banking, and transportation. By enhancing inclusivity and
+accessibility, the project fosters meaningful interactions and has long-term potential
+through NGO partnerships and CSR support.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
